@@ -1,1 +1,1 @@
-reset 그리고 checkout
+checkout을 이용한 되돌리기
